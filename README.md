@@ -27,7 +27,9 @@ conda activate da-pipeline-make
 Run the analysis:
 
 ```
-bash runall.sh
+make clean
+
+make all
 ```
 
 ### Exercise:
